@@ -9,7 +9,9 @@ I love helping others, which brought me here to contribute my knowledge and skil
 ## 2021 Goal : 100 contribution on Open source
 
 
-#### Profile View ![Visitor Count](https://profile-counter.glitch.me/HellFire03/count.svg)
+### Profile View:
+
+![Visitor Count](https://profile-counter.glitch.me/HellFire03/count.svg)
 
 
 ### 🧠 Skills: 
