@@ -33,7 +33,7 @@ I love helping others, which brought me here to contribute my knowledge and skil
 [![Hritika's github stats](https://github-readme-stats-jade-nine.vercel.app/api?username=HellFire03&theme=radical)](https://github.com/HellFire03/github-readme-stats)
 
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=HellFire03&theme=radical)  
+<p align="center"> ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=HellFire03&theme=radical)  </p>
 
 
 
