@@ -1,16 +1,22 @@
-### Hi there 👋
+### Hi there 👋, 
 
-<!--
-**HellFire03/HellFire03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###my name is Hritika Dhasal 😉
+#### I am a Software Developer 👩🏼‍💻
 
-Here are some ideas to get you started:
+I love helping others, which brought me here to contribute my knowledge and skills with others. I am currently a student and still have to learn many things 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Skills: 
+| Languages | C | C++ | Java | Python | Dart |
+| --- | --- | --- | --- | --- | --- |
+
+- 🔭 I’m currently working on Android Development 
+- 🌱 I’m currently learning Machine Learning 
+- 👯 I’m looking to collaborate on Open Source more offend now 
+- 💬 Ask me about any error you can solve 
+- 😄 Pronouns: Rutu 
+- ⚡ Fun fact: I ❤️️ Drawing, Reading and Travelling a lot 
+
+
+
+
+
