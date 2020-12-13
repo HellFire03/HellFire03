@@ -2,7 +2,7 @@
 ### my name is Hritika Dhasal 😉
 #### I am a Software Developer 👩🏼‍💻
 
-![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=light&animation=grow_out_in&quoteCategory=programming)
+![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dracula&animation=grow_out_in&layout=default)
 
 I love helping others, which brought me here to contribute my knowledge and skills with others. I am currently a student and still have to learn many things 
 
