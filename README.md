@@ -1,6 +1,6 @@
 ### Hi there 👋, 
 ### my name is Hritika Dhasal 😉
-#### I am a Software Developer 👩🏼‍💻
+#### and I am a Software Developer 👩🏼‍💻
 
 ![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dracula&animation=grow_out_in&layout=default)
 
