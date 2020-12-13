@@ -8,6 +8,10 @@ I love helping others, which brought me here to contribute my knowledge and skil
 
 ## 2021 Goal : 100 contribution on Open source
 
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://gpvc.arturio.dev/HellFire03" />
+</p>
 
 ![Profile views](https://gpvc.arturio.dev/HellFire03)  
 
