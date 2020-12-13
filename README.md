@@ -4,7 +4,8 @@
 
 I love helping others, which brought me here to contribute my knowledge and skills with others. I am currently a student and still have to learn many things 
 
-Skills: | Languages | C | C++ | Java | Python | Dart |
+### 🧠 Skills: 
+| Languages | C | C++ | Java | Python | Dart |
 | --- | --- | --- | --- | --- | --- |
 
 - 🔭 I’m currently working on Android Development 
