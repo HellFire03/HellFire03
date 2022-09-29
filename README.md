@@ -21,7 +21,7 @@ I love helping others, which brought me here to contribute my knowledge and skil
 ### ✏️ My Info:
 - 🔭 I’m currently working on Android Development 
 - 🌱 I’m currently learning Machine Learning 
-- 👯 I’m looking to collaborate on Open Source more offend now 
+- 👯 I’m looking to collaborate on Open Source more often now. 
 - 💬 Ask me about any error you can't solve 
 - ⚡ Fun fact: I ❤️️ Drawing, Reading and Travelling a lot 
 
